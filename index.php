@@ -35,19 +35,8 @@
      <!--   網頁本文   --> 
     <div class="text">
     GGG
-      <br>1111
-      <br>1111
-      <br>1111
-      <br>1111
-      <br>1111
-      <br>1111
-      <br>1111
-      <br>1111
-      <br>1111
-      <br>1111
-      <br>1111
-      <br>1111
-      <br>
+    
+	emergency-fix
     </div>
     
     
