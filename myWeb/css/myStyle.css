@@ -1,0 +1,43 @@
+.fakeimg {
+    height: 200px;
+    background: #aaa;
+}
+
+.container-left{
+    height: 0px;
+    width: 250px;
+    background-color: rgb(168, 168, 168);
+    overflow-y: scroll;
+}
+
+.left-nav-head{
+    color:rgb(203, 203, 203);
+    font-size:18px;
+}
+
+.left-nav-head:hover {
+    background-color: rgb(137, 135, 135);
+}
+
+.left-nav-item{
+    padding-left:20px;
+    color:rgb(81, 72, 72);
+    font-size:14px;
+}
+
+.left-nav-item:hover {
+    background-color: rgb(137, 135, 135);
+}
+
+.footer{
+    background-color: rgb(43, 47, 55);
+}
+
+.footerText{
+    color:rgb(215, 215, 215);
+    font-size:10px;
+}
+
+datalist {
+    font-size:55px;
+}

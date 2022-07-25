@@ -1,0 +1,26 @@
+h3{
+    color:#000;
+    font-weight:bold;
+}
+img{
+    height: 17vh;
+}
+
+.email span{
+    padding-top: 4px;
+    font-size: 10px;
+    color: darkgrey;
+    float:right;
+}
+.email span a{
+    color: #10a702;
+    float :right;
+    font-weight:700;
+}
+
+#login{
+    float: inherit;
+}
+a{
+    text-decoration: none ;
+}
